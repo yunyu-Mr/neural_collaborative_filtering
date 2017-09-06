@@ -83,7 +83,7 @@ def get_model(num_users, num_items, layers = [20,10], reg_layers=[0,0]):
     
     # The 0-th layer is the concatenation of embedding layers
     # vector = merge([user_latent, item_latent], mode = 'concat')
-    vector = concatenation([user_latent, item_latent])
+    vector = concatenate([user_latent, item_latent])
     
     # MLP layers
     for idx in range(1, num_layer):
