@@ -5,7 +5,7 @@ He Xiangnan et al. Neural Collaborative Filtering. In WWW 2017.
 
 @author: Xiangnan He (xiangnanhe@gmail.com)
 
-Modified on Nev 2017
+Modified on Sep 2017
 Convert to Keras-2, TensorFlow-1.3 and Python-3
 
 @author: Jiaming Zhang
