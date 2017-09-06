@@ -6,7 +6,7 @@ He Xiangnan et al. Neural Collaborative Filtering. In WWW 2017.
 
 @author: Xiangnan He (xiangnanhe@gmail.com)
 
-Modified on Nev, 2017
+Modified on Sep, 2017
 @author: Jiaming Zhang
 '''
 import numpy as np
