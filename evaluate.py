@@ -6,6 +6,8 @@ Evaluate the performance of Top-K recommendation:
     (more details are in: Xiangnan He, et al. Fast Matrix Factorization for Online Recommendation with Implicit Feedback. SIGIR'16)
 
 @author: hexiangnan
+
+Convert to python3 on Sep 2017
 '''
 import math
 import heapq # for retrieval topK
